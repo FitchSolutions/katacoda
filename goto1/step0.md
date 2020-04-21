@@ -1,3 +1,3 @@
 First, let's download the code just for review in the Editor...
 
-`git clone https://github.com/mattjonesorg/DMRTechnology.git`{{execute}}
+`git clone https://github.com/FitchSolutions/goto-chicago-2020-monolith.git`{{execute}}

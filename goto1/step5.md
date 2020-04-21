@@ -8,5 +8,5 @@ Let's get the client running on Node...
 
 Now let's get the code...
 
-`git clone https://github.com/mattjonesorg/DMRTechnology.git`{{execute}}
+`git clone https://github.com/FitchSolutions/goto-chicago-2020-monolith.git`{{execute}}
 

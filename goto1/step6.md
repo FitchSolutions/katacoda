@@ -4,7 +4,7 @@ Now we need to edit the server URL ...
 
 `apt install nano`{{execute}}
 
-`cd DMRTechnology`{{execute}}
+`cd goto-chicago-2020-monolith`{{execute}}
 
 `cd client`{{execute}}
 

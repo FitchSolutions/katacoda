@@ -1,9 +1,9 @@
 First, let's download the code...
 
-`git clone https://github.com/mattjonesorg/DMRTechnology.git`{{execute}}
+`git clone https://github.com/FitchSolutions/goto-chicago-2020-monolith.git`{{execute}}
 
 Now, let's position ourselves to update it...
 
-`cd DMRTechnology`{{execute}}
+`cd goto-chicago-2020-monolith`{{execute}}
 
 `cd server`{{execute}}

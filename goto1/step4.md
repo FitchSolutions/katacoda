@@ -1,6 +1,6 @@
 Now we'll run the server...
 
-`cd DMRTechnology`{{execute}}
+`cd goto-chicago-2020-monolith`{{execute}}
 
 `cd server`{{execute}}
 
