@@ -1,0 +1,3 @@
+We want to get the code, first - so let's start by getting git...
+
+`apt-get update && apt-get install git -y`{{execute}}

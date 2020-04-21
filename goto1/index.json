@@ -1,0 +1,56 @@
+{
+    "title": "GOTO Demo 1",
+    "description": "Building the monolith",
+    "difficulty": "Beginner",
+    "time": "20 minutes",
+    "details": {
+      "steps": [  
+        {
+          "title": "Examining the code",
+          "text": "step0.md"
+        },      
+        {
+          "title": "Getting Java 11",
+          "text": "step1.md"
+        },
+        {
+          "title": "Getting GIT",
+          "text": "step2.md"
+        },
+        {
+          "title": "Getting the code",
+          "text": "step3.md"
+        },
+        {
+          "title": "Time to run the server",
+          "text": "step4.md"
+        },
+        {
+          "title": "Start the client",
+          "text": "step5.md"
+        },
+        {
+          "title": "Getting the code",
+          "text": "step6.md"
+        },
+        {
+          "title": "Running the client",
+          "text": "step7.md"
+        }
+      ],
+      "intro": {
+        "text": "intro.md"
+      },
+      "finish": {
+        "text": "finish.md"
+      },
+      "assets": {
+      }
+    },
+    "environment": {
+      "uilayout": "editor-terminal"
+    },
+    "backend": {
+      "imageid": "docker"
+    }
+  }
